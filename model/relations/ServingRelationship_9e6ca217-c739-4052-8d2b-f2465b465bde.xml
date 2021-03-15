@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Config hop-admin  itself"
+    id="9e6ca217-c739-4052-8d2b-f2465b465bde">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_6fc626f3-e84c-4c40-a68e-ed3bd785f783.xml#6fc626f3-e84c-4c40-a68e-ed3bd785f783"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_c0bcb6ab-9689-4606-9276-5863d19b363b.xml#c0bcb6ab-9689-4606-9276-5863d19b363b"/>
+</archimate:ServingRelationship>

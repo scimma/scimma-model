@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OIDC-Based Authenication and Authorization"
+    id="99e2036d-cf71-4d36-971e-8bf0157ee6a6"
+    documentation="OIDC callout affiming person is enrolled, and give information abou trelevant groups to Hop-Admin  (Django-based Hop Admin obtains Scimma identity from Scimma Co-manage via OIDC) "/>

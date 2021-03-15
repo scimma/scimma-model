@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="G &amp; T changes"
+    id="371e3e35-f84f-4dc7-9fc8-8d0dea82152f">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_aa673c00-590d-41ce-9800-ecfe7f2e30cb.xml#aa673c00-590d-41ce-9800-ecfe7f2e30cb"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_c0bcb6ab-9689-4606-9276-5863d19b363b.xml#c0bcb6ab-9689-4606-9276-5863d19b363b"/>
+</archimate:ServingRelationship>

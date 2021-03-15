@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Hop Admin] Kafka  Access DB"
+    id="bd6bc74c-1447-4e3f-8ff4-93ed4a18b235"
+    documentation="Comanage User id&#xA;Comanage User Group&#xA;Kalfa ID&#xA;Kafka Channel Authorizations&#xA;Kaka Groups &#xA;Kafka suspend.&#xA;Django Identity"/>

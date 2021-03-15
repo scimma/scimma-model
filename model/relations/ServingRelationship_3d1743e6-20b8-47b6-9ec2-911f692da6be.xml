@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DB level adminstration"
+    id="3d1743e6-20b8-47b6-9ec2-911f692da6be">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_b53a9f62-cd4f-45e0-b46b-cc6bdaf98c1f.xml#b53a9f62-cd4f-45e0-b46b-cc6bdaf98c1f"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_6225e3ac-6722-4188-91a7-3aea03c73447.xml#6225e3ac-6722-4188-91a7-3aea03c73447"/>
+</archimate:ServingRelationship>
