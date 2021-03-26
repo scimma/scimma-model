@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EC2 instances for EKS"
-    id="69a62f18-e7a6-4e59-a55b-2d0c5153d721"/>
+    id="69a62f18-e7a6-4e59-a55b-2d0c5153d721"
+    documentation="fun little test"/>
