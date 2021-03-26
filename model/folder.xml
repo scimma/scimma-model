@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SCiMMA"
     id="a4496ac4-fff6-49f1-a403-c698f3e4b47b"
-    purpose="Get Archimate: https://github.com/audreykoz/NCSA-Archi&#xA;Get the model: https://github.com/scimma/scimma-model"
+    purpose="Get Archimate: https://github.com/ncsa/NCSA-Archi&#xA;Get the model: https://github.com/scimma/scimma-model"
     version="4.6.0">
   <metadata/>
 </archimate:ArchimateModel>
