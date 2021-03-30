@@ -1,4 +1,7 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hop Group, Topic  Adminstrators"
-    id="aa673c00-590d-41ce-9800-ecfe7f2e30cb"/>
+    id="aa673c00-590d-41ce-9800-ecfe7f2e30cb">
+  <properties
+      key="icon"/>
+</archimate:BusinessActor>

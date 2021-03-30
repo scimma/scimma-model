@@ -1,4 +1,7 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hop  Unprivileged users "
-    id="48b316ed-1053-4cb9-ac37-897d39c7a40c"/>
+    id="48b316ed-1053-4cb9-ac37-897d39c7a40c">
+  <properties
+      key="icon"/>
+</archimate:BusinessActor>

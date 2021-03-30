@@ -1,4 +1,7 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hop Postgres DB Admin"
-    id="b53a9f62-cd4f-45e0-b46b-cc6bdaf98c1f"/>
+    id="b53a9f62-cd4f-45e0-b46b-cc6bdaf98c1f">
+  <properties
+      key="icon"/>
+</archimate:BusinessActor>

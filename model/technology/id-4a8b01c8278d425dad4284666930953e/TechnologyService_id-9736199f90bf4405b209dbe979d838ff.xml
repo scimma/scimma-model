@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Route 53 (Technology Service)"
+    id="id-9736199f90bf4405b209dbe979d838ff"
+    documentation="resolved domain names to ips, like a dns server"/>
