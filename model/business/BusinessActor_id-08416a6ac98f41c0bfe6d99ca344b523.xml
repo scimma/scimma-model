@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Generic ELK API Key-Authenticated user"
+    id="id-08416a6ac98f41c0bfe6d99ca344b523"
+    documentation="an indiividual user possessing an API key using API access to ELK  &#xA;API users are not performing ELK administrative tasks"/>

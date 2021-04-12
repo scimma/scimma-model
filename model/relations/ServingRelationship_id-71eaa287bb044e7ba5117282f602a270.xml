@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingest Services"
+    id="id-71eaa287bb044e7ba5117282f602a270">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-0575dc45a77a45059e25709cd368e91d.xml#id-0575dc45a77a45059e25709cd368e91d"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-2d5c64ebc8fd4822bfadb3d19ff520f0.xml#id-2d5c64ebc8fd4822bfadb3d19ff520f0"/>
+</archimate:ServingRelationship>
