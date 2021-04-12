@@ -4,6 +4,74 @@
     name="ELK View"
     id="id-2274fc889eb04b95a19c546ab7cc27e6">
   <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-f680d4d3ba604ce392e155515267dda3"
+      name="TBD Auth"
+      textAlignment="1">
+    <bounds
+        x="240"
+        y="108"
+        width="220"
+        height="157"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-d3cf84df60b94077b15b14ca0b431329"
+      name="COmanage Auth"
+      textAlignment="1">
+    <bounds
+        x="240"
+        y="264"
+        width="220"
+        height="312"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-24a3146be8474eeb91782f897d5d86ba"
+      name="ELK Key Auth"
+      textAlignment="1">
+    <bounds
+        x="240"
+        y="575"
+        width="229"
+        height="386"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-94a7d1117dc14c9eb40c37b5d8815c08"
+        targetConnections="id-cb34b6adba074763a5caa18cf7a0459e">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-e05a6147db8242c7a61633d952adc018"
+          source="id-94a7d1117dc14c9eb40c37b5d8815c08"
+          target="id-2713017e7b25413a998949b01063a47b">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_id-403a2accdd064d948bd8724c4188ab08.xml#id-403a2accdd064d948bd8724c4188ab08"/>
+      </sourceConnections>
+      <bounds
+          x="24"
+          y="24"
+          width="169"
+          height="109"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-2713017e7b25413a998949b01063a47b"
+          targetConnections="id-e05a6147db8242c7a61633d952adc018">
+        <bounds
+            x="24"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessRole"
+            href="BusinessRole_id-c019ce169a1041469c6f6ab68f0d07c1.xml#id-c019ce169a1041469c6f6ab68f0d07c1"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-08416a6ac98f41c0bfe6d99ca344b523.xml#id-08416a6ac98f41c0bfe6d99ca344b523"/>
+    </children>
+  </children>
+  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6f73347d56a0440e9ca4cb2c22123a90">
     <sourceConnections
@@ -119,11 +187,6 @@
             startY="-15"
             endX="144"
             endY="6"/>
-        <bendpoints
-            startX="-179"
-            startY="9"
-            endX="144"
-            endY="30"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-3768b27790274ebf8cb6441af62eca13.xml#id-3768b27790274ebf8cb6441af62eca13"/>
@@ -211,9 +274,9 @@
           target="id-57c027bc00564c3d9cd0e1e9933d453d">
         <bendpoints
             startX="-167"
-            startY="-29"
+            startY="-17"
             endX="145"
-            endY="129"/>
+            endY="165"/>
         <bendpoints
             startX="-167"
             startY="-149"
@@ -269,41 +332,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-94a7d1117dc14c9eb40c37b5d8815c08"
-      targetConnections="id-cb34b6adba074763a5caa18cf7a0459e">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e05a6147db8242c7a61633d952adc018"
-        source="id-94a7d1117dc14c9eb40c37b5d8815c08"
-        target="id-2713017e7b25413a998949b01063a47b">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-403a2accdd064d948bd8724c4188ab08.xml#id-403a2accdd064d948bd8724c4188ab08"/>
-    </sourceConnections>
-    <bounds
-        x="269"
-        y="575"
-        width="169"
-        height="109"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-2713017e7b25413a998949b01063a47b"
-        targetConnections="id-e05a6147db8242c7a61633d952adc018">
-      <bounds
-          x="24"
-          y="36"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessRole"
-          href="BusinessRole_id-c019ce169a1041469c6f6ab68f0d07c1.xml#id-c019ce169a1041469c6f6ab68f0d07c1"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-08416a6ac98f41c0bfe6d99ca344b523.xml#id-08416a6ac98f41c0bfe6d99ca344b523"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1d91dbe9e20746b081f2e27c9d6e9c6d">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -355,7 +383,7 @@
     </sourceConnections>
     <bounds
         x="269"
-        y="755"
+        y="720"
         width="169"
         height="229"/>
     <children
@@ -402,7 +430,7 @@
     </sourceConnections>
     <bounds
         x="269"
-        y="156"
+        y="132"
         width="169"
         height="120"/>
     <children
@@ -421,5 +449,16 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-acf5ab14fea8458eb41b4ba25e668fd2.xml#id-acf5ab14fea8458eb41b4ba25e668fd2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c17207ef07cb478191e4e9aaedff0b31"
+      textAlignment="1"
+      content="NOTE: no connection to COmanage LDAP">
+    <bounds
+        x="936"
+        y="393"
+        width="133"
+        height="53"/>
   </children>
 </archimate:ArchimateDiagramModel>
