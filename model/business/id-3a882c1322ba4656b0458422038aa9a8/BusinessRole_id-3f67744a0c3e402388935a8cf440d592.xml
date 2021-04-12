@@ -1,5 +1,5 @@
-<archimate:BusinessActor
+<archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ELK data console user"
-    id="id-9ae3c0af3e8842eda7390dc51a681989"
+    id="id-3f67744a0c3e402388935a8cf440d592"
     documentation="an indiividual user authenticated byh comanage to use ELK, accessing the ELK using fderated Identihy."/>

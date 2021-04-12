@@ -7,6 +7,6 @@
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-1eddb0906e1a433293cb2573213e4953.xml#id-1eddb0906e1a433293cb2573213e4953"/>
   <target
-      xsi:type="archimate:BusinessActor"
-      href="BusinessActor_id-9ae3c0af3e8842eda7390dc51a681989.xml#id-9ae3c0af3e8842eda7390dc51a681989"/>
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-3f67744a0c3e402388935a8cf440d592.xml#id-3f67744a0c3e402388935a8cf440d592"/>
 </archimate:ServingRelationship>
