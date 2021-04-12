@@ -461,4 +461,15 @@
         width="133"
         height="53"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1ee3a2e5fe774974a438452d10073a55"
+      textAlignment="1"
+      content="RON Q's:&#xA;1. How does TBD auth works?&#xA;2. Who in COmanage gains query access to ELK? Can it be managed like AWS/CLI access?&#xA;3. How our API keys is given out?&#xA;4. Review ASAP criteria: https://docs.google.com/document/d/1AMKpAjyPxQT3RAb8YhccsQ7gD3hnWgHHyBn-9vgI7MM/edit#">
+    <bounds
+        x="568"
+        y="60"
+        width="185"
+        height="217"/>
+  </children>
 </archimate:ArchimateDiagramModel>
