@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS Inspector Exposure CSVs"
+    id="id-1d2274a13ea74099bdc9c440aa0d2a66"
+    documentation="These are CSV reports showing EC2  instnance exposed to the outside and.or crossing  internal boundaries.&#xA; "/>
