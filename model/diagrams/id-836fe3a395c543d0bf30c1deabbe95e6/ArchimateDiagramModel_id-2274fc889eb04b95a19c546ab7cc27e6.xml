@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-f680d4d3ba604ce392e155515267dda3"
-      name="TBD Auth"
+      name="Elastic Search Login"
       textAlignment="1">
     <bounds
         x="240"
@@ -17,7 +17,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-d3cf84df60b94077b15b14ca0b431329"
-      name="COmanage Auth"
+      name="COmanage Auth/OIDC"
       textAlignment="1">
     <bounds
         x="240"
@@ -465,11 +465,33 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-1ee3a2e5fe774974a438452d10073a55"
       textAlignment="1"
-      content="RON Q's:&#xA;1. How does TBD auth works?&#xA;2. Who in COmanage gains query access to ELK? Can it be managed like AWS/CLI access?&#xA;3. How our API keys is given out?&#xA;4. Review ASAP criteria: https://docs.google.com/document/d/1AMKpAjyPxQT3RAb8YhccsQ7gD3hnWgHHyBn-9vgI7MM/edit#">
+      content="RON Q's:&#xA;X. How does TBD auth works?&#xA;X. Who in COmanage gains query access to ELK? Can it be managed like AWS/CLI access? - determined by COmanage access list scimma_user&#xA;3. How our API keys is given out?&#xA;4. Review ASAP criteria: https://docs.google.com/document/d/1AMKpAjyPxQT3RAb8YhccsQ7gD3hnWgHHyBn-9vgI7MM/edit#">
     <bounds
         x="568"
         y="60"
         width="185"
         height="217"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ff61921d2c1e4f2a891682876bc6256d"
+      textAlignment="1"
+      content="Can see everything, but can't do admin stuff">
+    <bounds
+        x="48"
+        y="396"
+        width="157"
+        height="48"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3b03329fe3684d8c80b2a91e216c0ff1"
+      textAlignment="1"
+      content="Ron can &quot;log in with elasticsearch&quot;">
+    <bounds
+        x="60"
+        y="180"
+        width="145"
+        height="52"/>
   </children>
 </archimate:ArchimateDiagramModel>
