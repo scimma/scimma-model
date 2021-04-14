@@ -1,6 +1,6 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AWS Access Key Holder "
+    name="Elastic Cloud User"
     id="id-acf5ab14fea8458eb41b4ba25e668fd2">
   <properties
       key="icon"/>

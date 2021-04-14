@@ -1,5 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ELK data console user"
+    name="Staff Elastic Search user"
     id="id-3f67744a0c3e402388935a8cf440d592"
-    documentation="an indiividual user authenticated byh comanage to use ELK, accessing the ELK using fderated Identihy."/>
+    documentation="As of April 2021, all scimma staff is federated through &quot;scimma_user&quot; elastic search role. Others are not. Users can see all options, but are restricted from accessing admin functionality.&#xA;an indiividual user authenticated byh comanage to use ELK, accessing the ELK using fderated Identihy."/>

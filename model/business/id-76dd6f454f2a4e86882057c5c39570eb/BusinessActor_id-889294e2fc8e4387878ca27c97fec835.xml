@@ -1,4 +1,7 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[IAM] Generic Actor w/Federated Identity "
-    id="id-889294e2fc8e4387878ca27c97fec835"/>
+    name="[IAM] Staff w/Federated Identity "
+    id="id-889294e2fc8e4387878ca27c97fec835">
+  <properties
+      key="icon"/>
+</archimate:BusinessActor>
