@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Key Request"
+    id="id-714ac44ecbcf44319f8a8118670b4fef">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-62542db5d5664f5b811d598f40541825.xml#id-62542db5d5664f5b811d598f40541825"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-3f67744a0c3e402388935a8cf440d592.xml#id-3f67744a0c3e402388935a8cf440d592"/>
+</archimate:ServingRelationship>
