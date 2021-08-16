@@ -1,7 +1,7 @@
 <archimate:Device
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Hop Admin] hopprod-hop-creds-sync-pod"
-    id="7254ce07-d089-425d-b00c-e3cdf392e780">
+    name="[Hop Admin] fluentd-pod"
+    id="id-4df668d58d96443bbb38af40ca3314a0">
   <properties
       key="icon"/>
 </archimate:Device>
